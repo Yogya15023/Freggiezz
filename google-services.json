@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1029447017814",
+    "firebase_url": "https://freggiezz-default-rtdb.firebaseio.com",
+    "project_id": "freggiezz",
+    "storage_bucket": "freggiezz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029447017814:android:cd0bc1b02f9d505ee4a2f7",
+        "android_client_info": {
+          "package_name": "com.boss.freggies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029447017814-3e3huiefper4ibgb898284l2lus9on2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD22WXea6JAZJ7kQYcIOJZmuBF62slidpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029447017814-3e3huiefper4ibgb898284l2lus9on2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

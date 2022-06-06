@@ -1,4 +1,4 @@
-# freggies
+# freggiezz
 
 A new Flutter project.
 
